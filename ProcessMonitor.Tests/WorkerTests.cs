@@ -1,8 +1,5 @@
-using Newtonsoft.Json.Linq;
-using NuGet.Frameworks;
 using ProcessMonitor.Interface;
 using ProcessMonitor.Worker;
-using System.Diagnostics;
 
 namespace ProcessMonitor.Tests
 {
